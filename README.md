@@ -27,8 +27,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'www.linkedin.com/in/cryptod3stiny'> <img width = '32px' align= 'center' src="www.linkedin.com/in/cryptod3stiny"/></a> 
-<a href = 'https://x.com/CryptoD3stiny'> <img width = '32px' align= 'center' src="https://x.com/CryptoD3stiny"/></a> 
+
 
   
 <br>
