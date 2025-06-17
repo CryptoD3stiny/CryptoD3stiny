@@ -6,9 +6,7 @@
   </samp>
 </p>
 
-
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
-
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -23,18 +21,12 @@
 - :thinking: Open to new `Data Engineering` opportunities — check out my [RESUME](https://danielricol.carrd.co/).
 - :boom: Visit [MY WEBSITE](https://danielricol.carrd.co/) to see my projects, skills, and journey.
 
-
-
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-
-  
 <br>
 <br>
   <br>
-  <!-- Visitor'ss -->
-----
+  ----
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Visitor's Count 👀</h2></summary>
@@ -44,12 +36,7 @@
   </p>
 </div>
 
-
-
 ## 🛠️ My Skills
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
@@ -91,18 +78,14 @@
     </tr>
 </table>
 
-<!--- stats (end) -->
-
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
-
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
 
