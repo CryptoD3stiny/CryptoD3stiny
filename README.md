@@ -20,8 +20,8 @@
 - :computer: Competitive programmer on platforms like `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, and `Google Contests`.
 - :student: Currently learning `Big Data`, `ETL pipelines`, `SQL/NoSQL databases`, `Apache Spark`, and `Cloud Platforms` like AWS and GCP.
 - :nerd_face: Constantly improving and learning about `data architecture`, `automation`, and `distributed systems`.
-- :thinking: Open to new `Data Engineering` opportunities — check out my [RESUME](https://turesume.com/).
-- :boom: Visit [MY WEBSITE](https://tuportafolio.com/) to see my projects, skills, and journey.
+- :thinking: Open to new `Data Engineering` opportunities — check out my [RESUME](https://danielricol.carrd.co/).
+- :boom: Visit [MY WEBSITE](https://danielricol.carrd.co/) to see my projects, skills, and journey.
 
 
 
