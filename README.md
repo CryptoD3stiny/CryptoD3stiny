@@ -77,55 +77,21 @@
 ---
 
 ## 🛠️ The Elite Toolkit: Technology Stack 
-
-<h3 align="left" style="color: #00ffff;">Core Technologies & Languages:</h3>
-<table style="width: 100%; border: none;">
-    <tr>
-        <td style="font-weight: bold; padding: 10px; vertical-align: middle; border: none; color: #ff00ff; width: 10%;">Big Data & ETL:</td>
-        <td style="border: none; padding: 10px; width: 90%;">
-            <img height="50" src="https://skillicons.dev/icons?i=py,spark,kafka,hadoop,airflow,databricks,scala,r,jupyter,mongodb,snowflake,tableau,powerbi,dbt" alt="Big Data & ETL Icons"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding: 10px; vertical-align: middle; border: none; color: #ff00ff; width: 10%;">Cloud & DevOps:</td>
-        <td style="border: none; padding: 10px; width: 90%;">
-            <img height="50" src="https://skillicons.dev/icons?i=gcp,aws,azure,docker,kubernetes,terraform,ansible,jenkins,git,githubactions,gitlab,prometheus,grafana,argocd,helm" alt="Cloud & DevOps Icons"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding: 10px; vertical-align: middle; border: none; color: #ff00ff; width: 10%;">Databases:</td>
-        <td style="border: none; padding: 10px; width: 90%;">
-            <img height="50" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,cassandra,redis,neo4j,elasticsearch,sqlite,mariadb,firebase" alt="Database Icons"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding: 10px; vertical-align: middle; border: none; color: #ff00ff; width: 10%;">Backend Systems:</td>
-        <td style="border: none; padding: 10px; width: 90%;">
-            <img height="50" src="https://skillicons.dev/icons?i=java,cs,net,nodejs,fastapi,spring,express,php,laravel,go,rust,django,flask" alt="Backend Icons"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding: 10px; vertical-align: middle; border: none; color: #ff00ff; width: 10%;">Frontend & UI/UX:</td>
-        <td style="border: none; padding: 10px; width: 90%;">
-            <img height="50" src="https://skillicons.dev/icons?i=react,vue,angular,ts,js,html,css,figma,sass,tailwind,bootstrap,mui" alt="Frontend Icons"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding: 10px; vertical-align: middle; border: none; color: #ff00ff; width: 10%;">Testing & Tools:</td>
-        <td style="border: none; padding: 10px; width: 90%;">
-            <img height="50" src="https://skillicons.dev/icons?i=vscode,selenium,jest,pytest,cypress,postman,jira,confluence,bash,linux,webpack,vite,npm,yarn" alt="Testing & Tools Icons"/>
-        </td>
-    </tr>
-</table>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
 
 ---
 
 
 
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Web Skills</h1>
-<p align="center">
-	Web Skills is a visual overview of useful skills to learn as a web developer. Go to <a href="https://andreasbm.github.io/web-skills" target="_blank" aria-label="Link to Web Skills">https://andreasbm.github.io/web-skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/andreasbm/web-skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
-</p> 
+
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
 		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Web Skills Demo" width="800" />
